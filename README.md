@@ -24,6 +24,5 @@
 4. <b>Validation:</b> Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
 <h2>UML Diagram</h2> 
-![UML Diagram](https://raw.githubusercontent.com/TrixiePicana/Lab_Assignment_3_ChainOfResponsibilityPattern/main/UML_Chain%20of%20Responsibility%20Pattern.png) 
-
+![UML Diagram](https://raw.githubusercontent.com/TrixiePicana/LabAssignment3ChainOfResponsibilityPattern/main/UMLChainofResponsibilityPattern.png)
 
